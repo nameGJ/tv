@@ -1,17 +1,20 @@
 {
    "urls":[
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/nameGJ/m3u/main/siji.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/nameGJ/tv/main/siji.json",
             "name": "老司机"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/nameGJ/m3u/main/m.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/nameGJ/tv/main/m.json",
             "name": "收集的"
         },
         {
             "url": "https://gitee.com/jgfx/TVBox/raw/master/dcpro630.json",
             "name": "单仓"
-        }	
+        },
+      {    "url": "https://ghproxy.com/https://raw.githubusercontent.com/nameGJ/tv/main/xiangyaqing.json",
+         "name": "香雅情"
+      }
         
     ]
 }
