@@ -58,15 +58,6 @@
       "changeable": 1,
       "ext": "https://www.libvio.fun/"
     },
-  
-   {
-      "key": "磁力",
-      "name": "🧲TH┃荐片磁力",
-      "type": 3,
-      "playerType": "1",
-      "api": "http://xhww.fun:63/js/drpy1.min.js",
-      "ext": "http://smallmi.xiaohewanwan.love:63/jp.js"
-    },
 
     {"key": "csp_Mp4Mov","name": "🧲TH┃Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/cili.jar"},
         {"key": "csp_New6v","name": "🧲TH┃新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.xb6v.com","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/cili.jar"},
@@ -94,16 +85,6 @@
     "ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E4%B8%AD%E5%9B%BD%E8%93%9D%E5%85%89%E7%BD%91.json",
     "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
    }, 
-   {
-      "key": "纸条",
-      "name": "🔎┃纸条搜索",
-      "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "jar": "https://pan.shangui.cc/f/8VKpHo/ali.jar"
-    },
      {
      "key":"北极狐", 
      "name": "📛TH┃北极狐4K", 
