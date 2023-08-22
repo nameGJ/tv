@@ -9,8 +9,11 @@
             "name": "老司机带带我收集"
         },
       {    "url": "https://ghproxy.com/https://raw.githubusercontent.com/nameGJ/tv/main/xiangyaqing.json",
-         "name": "老司机带带我仓2"
-      }
-        
+         "name": "老司机带带我仓1"
+      },
+         {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/nameGJ/tv/main/m1.json",
+            "name": "老司机带带我仓2"
+        }
     ]
 }
